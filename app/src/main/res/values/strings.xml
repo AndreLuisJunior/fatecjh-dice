@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Roll the Dice</string>
+    <string name="prompt_select_dice">Select Dice</string>
+    <string name="prompt_history">History</string>
+    <string name="prompt_save_history">Save History</string>
+    <string name="prompt_clear_history">Clear History</string>
+</resources>
